@@ -1,0 +1,32 @@
+body {
+    font-family: Arial;
+    background: linear-gradient(to right, #ffecd2, #fcb69f);
+    text-align: center;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+input, button {
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #ff7b54;
+    color: white;
+    border: none;
+}
+
+button:hover {
+    background-color: #ff5722;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
